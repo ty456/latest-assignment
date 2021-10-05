@@ -1,0 +1,30 @@
+[
+  {
+  "types": "EDUCATION . EXPERT",
+  "title": "How To Become A Web Developer",
+  "id":1,
+  "date": "2/26/2020",
+  "url": "https://html.creativegigs.net/zoomy/assets/img/blog/01.jpg"
+},
+  {
+  "types": "CREATIVE . PROGRAMMER",
+  "title": "Top Tips For Better Programmer",
+  "id":2,
+  "date": "01/5/2021",
+  "url": "https://html.creativegigs.net/zoomy/assets/img/blog/12.jpg"
+},
+  {
+  "types": "EDUCATION . EXPERT",
+  "title": "Using Media to Support Online Teaching",
+  "id":3,
+  "date": "10/15/2021",
+  "url": "https://html.creativegigs.net/zoomy/assets/img/blog/03.jpg"
+},
+  {
+  "types": "ONLINE . SCHOOL . SKILL",
+  "title": "4 New Zoom Enhance Virtual Learning",
+  "id":4,
+  "date": "3/21/2021",
+  "url": "https://html.creativegigs.net/zoomy/assets/img/blog/14.jpg"
+}
+]

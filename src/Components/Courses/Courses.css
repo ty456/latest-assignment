@@ -1,0 +1,17 @@
+.courses {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap:10px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-course img{
+  width: 420px;
+  height: 250px;
+}
